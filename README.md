@@ -1,2 +1,2 @@
 # LGIT
-# THis software is a learning process for me.
+# This software is a learning process for me.
